@@ -184,21 +184,21 @@ a.navbar-links{
     font-size: 100px;
     font-weight: 800;
     margin-bottom: 0px;
-    margin-top: 200px;
+    margin-top: 10%;
     margin-left: 8%;
     height: 25%;
 }
 #contact-left-column{
-    width: 25%;
+    width: 20%;
     padding-left: 9%;
-    margin-top: 8%;
-    margin-right: 10px;
+    margin-top: 5%;
+    margin-right: 2%;
 }
 #contact-right-column{
-    width: 75%;
+    width: 60%;
     text-align: left;
-    margin-top: 8%;
-    margin-left: 10px;
+    margin-top: 5%;
+    margin-left: 2%;
 }
 .contact-links{
     color: #03045E;
