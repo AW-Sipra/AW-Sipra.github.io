@@ -43,27 +43,23 @@ a.navbar-links{
     justify-content: space-between;
 }
 #backdrop-left-column{
-    display: flex;
     margin-top: 288px;
     margin-left: 8%;
     width: 430px;
 }
 #backdrop-left-column>p{
-    display: flex;
     font-weight: 500;
     font-size: 28px;
     color: #03045E;
     margin: 5px;
 }
 #backdrop-left-column>h1{
-    display: flex;
     font-weight: 800;
     font-size: 100px;
     color: #03045E;
     margin: 0;
 }
 #backdrop-resume-button{
-    display: flex;
     background-color: #F5EE84;
     color: #474306;
     width: 164px;
@@ -80,7 +76,6 @@ a.navbar-links{
     cursor: pointer;
 }
 #backdrop-right-column{
-    display: flex;
     margin-top: 174px;
     margin-right: 8%;
     text-align: center;
@@ -91,7 +86,6 @@ a.navbar-links{
     flex-direction: column;
 }
 #about-header>h1{
-    display: flex;
     color: #F7F197;
     font-size: 100px;
     font-weight: 800;
@@ -101,7 +95,6 @@ a.navbar-links{
     height: 25%;
 }
 #about-body{
-    display: flex;
     width: 50%;
     margin-top: 0px;
     margin-left: 9%;
@@ -110,7 +103,6 @@ a.navbar-links{
     font-weight: 400;
 }
 .years{
-    display: flex;
     color: #03045E;
     font-size: 24px;
     font-weight: 600;   
@@ -118,7 +110,6 @@ a.navbar-links{
     margin-top: 2.5%;
 }
 #years1{
-    display: flex;
     color: #03045E;
     font-size: 24px;
     font-weight: 600;   
@@ -126,7 +117,6 @@ a.navbar-links{
     margin-top: 2%;
 }
 .list-body{
-    display: flex;
     color: #03045E;
     font-size: 24px;
     font-weight: 400;   
@@ -139,7 +129,6 @@ a.navbar-links{
     flex-direction: column;
 }
 #work-header>h1{
-    display: flex;
     color: #F7F197;
     font-size: 100px;
     font-weight: 800;
@@ -149,7 +138,6 @@ a.navbar-links{
     height: 25%;
 }
 #work-body{
-    display: flex;
     width: 50%;
     margin-top: 0px;
     margin-left: 9%;
@@ -165,11 +153,9 @@ a.navbar-links{
 }
 
 .project-images{
-    display: flex;
     padding-left: 15%;
 }
 .project-dates{
-    display: flex;
     margin-left: 15%;
     color: #03045E;
     font-size: 15px;
@@ -177,14 +163,12 @@ a.navbar-links{
     font-style: italic;
 }
 .project-headers{
-    display: flex;
     margin-left: 15%;
     color: #03045E;
     font-size: 24px;
     font-weight: 600;
 }
 .project-body-text{
-    display: flex;
     margin-left: 15%;
     margin-right: 15%;
     color: #03045E;
@@ -195,7 +179,6 @@ a.navbar-links{
     display: flex;
 }
 #contact-header>h1{
-    display: flex;
     color: #F7F197;
     font-size: 100px;
     font-weight: 800;
@@ -205,32 +188,27 @@ a.navbar-links{
     height: 25%;
 }
 #contact-left-column{
-    display: flex;
     width: 25%;
     padding-left: 9%;
     margin-top: 8%;
 }
 #contact-right-column{
-    display: flex;
     width: 75%;
     text-align: left;
     margin-top: 8%;
 }
 .contact-links{
-    display: flex;
     color: #03045E;
     font-size: 24px;
     font-weight: 400;
     margin-top: 0;
 }
 #contact-body-text{
-    display: flex;
     color: #03045E;
     font-size: 24px;
     font-weight: 400;
     margin-right: 35%;
 }
 #contact-full{
-    display: flex;
     margin-bottom: 15%;
 }
