@@ -177,6 +177,7 @@ a.navbar-links{
 }
 #contact-main{
     display: flex;
+    justify-content: space-between;
 }
 #contact-header>h1{
     color: #F7F197;
@@ -191,11 +192,13 @@ a.navbar-links{
     width: 25%;
     padding-left: 9%;
     margin-top: 8%;
+    margin-right: 10px;
 }
 #contact-right-column{
     width: 75%;
     text-align: left;
     margin-top: 8%;
+    margin-left: 10px;
 }
 .contact-links{
     color: #03045E;
