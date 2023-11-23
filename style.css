@@ -215,3 +215,5 @@ a.navbar-links{
 #contact-full{
     margin-bottom: 15%;
 }
+
+/* I'm retarded and I can't figure out how to make the navbar links go to the right side of the screen. I've tried using flexbox and float but nothing seems to work. I'm also trying to make the navbar links go to the different sections of the page but I can't figure out how to do that either. Any help would be appreciated. Thanks! */
